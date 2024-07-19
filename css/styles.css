@@ -1,0 +1,16 @@
+body {
+    padding-top: 0px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.review {
+    margin-bottom: 20px;
+}
+
+.pagination {
+    justify-content: center;
+}
